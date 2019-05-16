@@ -44,6 +44,7 @@ social:
     mail: cymondrian@outlook.com
 
 # Google Analytics
-ga:
+#ga:
+    google_analytics: UA-140300459-1
     # id: UA-140300459-1
     # host: your_host
